@@ -23,8 +23,8 @@ export function RegisterPage(): JSX.Element {
               <RegisterForm
                 type="patient"
                 projectId="23418854-0a74-45af-bc73-b2b8f4358d07"
-                googleClientId="679052511930-8dqur4mmg8egbttgos5pmr4ljtf3etbb.apps.googleusercontent.com"
-                recaptchaSiteKey="6LfFd_8gAAAAAOCVrZQ_aF2CN5b7s91NEYIu5GxL"
+                googleClientId="781503661644-vorr85h1e9uahdkjkt4pbeocpduoio8q.apps.googleusercontent.com"
+                recaptchaSiteKey="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"
                 onSuccess={() => navigate('/')}
               >
                 <h2>Register with Foo Medical</h2>

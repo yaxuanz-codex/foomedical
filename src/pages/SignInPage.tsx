@@ -21,7 +21,7 @@ export function SignInPage(): JSX.Element {
             <div className="flex flex-col justify-between lg:pr-8">
               <SignInForm
                 projectId="23418854-0a74-45af-bc73-b2b8f4358d07"
-                googleClientId="679052511930-8dqur4mmg8egbttgos5pmr4ljtf3etbb.apps.googleusercontent.com"
+                googleClientId="781503661644-vorr85h1e9uahdkjkt4pbeocpduoio8q.apps.googleusercontent.com"
                 onSuccess={() => navigate('/')}
               >
                 <h2>Sign in to Foo Medical</h2>
