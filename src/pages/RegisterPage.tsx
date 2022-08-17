@@ -23,7 +23,7 @@ export function RegisterPage(): JSX.Element {
               <RegisterForm
                 type="patient"
                 projectId="23418854-0a74-45af-bc73-b2b8f4358d07"
-                googleClientId="781503661644-vorr85h1e9uahdkjkt4pbeocpduoio8q.apps.googleusercontent.com"
+                googleClientId="781503661644-vorr85h1e9uahdkjkt4pbeocpduoio8q"
                 recaptchaSiteKey="6LfO3n4hAAAAAMIcLXTNVF6P9xVXvyMUkPFCwlw9"
                 onSuccess={() => navigate('/')}
               >
